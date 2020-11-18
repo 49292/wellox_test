@@ -1,0 +1,1 @@
+{"path1":"/home/pi/PycharmProjects/pythonProject1/Pycharmsave/","Day":"2","Delaytime":"0","Cameranumber":"2"}
